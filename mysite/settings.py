@@ -25,7 +25,7 @@ SECRET_KEY = '$@l^u5zxx4cvhv49sm^7vo2-6jr8)%!3z91!hikvikd=ef1w@j'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://agulim.pythonanywhere.com/']
 
 
 # Application definition
